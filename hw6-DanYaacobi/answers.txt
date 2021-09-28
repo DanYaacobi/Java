@@ -1,0 +1,11 @@
+1) push method: Execution does not match the contract.
+counter example: o = null
+how to fix: add to contract "@pre o != null"
+
+2) pop method: Execution does match the contract.
+
+3) top method: Execution does not match the contract
+counter example: one of the elements in the middle of the linked list is null.
+how to fix: add to contract "@pre for all Object LinkedList<Object> ! = null
+
+4) isEmpty method: Execution does match the contract.
