@@ -1,2 +1,2 @@
-# Java Works
- My entire work during the "Program 1" course
+# Java projects
+My entire java projects i did during the semester.
